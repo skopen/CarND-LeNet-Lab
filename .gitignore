@@ -1,5 +1,4 @@
 # Temporary project files
-MNIST_data/
 checkpoint
 lenet.data*
 lenet.index
